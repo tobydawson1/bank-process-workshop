@@ -58,13 +58,9 @@ For the user stories I created a domain model for each object, including attribu
 | Object: | Account | 
 | ------- | ------- | 
 | **Attributes:** |  statement (date, credit, debit, balance), balance |
-
 | **Method:** | PrintStatement |
-
 | **Method:** | PrintBalance |
-
 | **Method:** | Deposit |  
-
 | **Method:** | Withdrawal |  
 
 ## <a name="Acceptance_criteria">Acceptance criteria</a>
